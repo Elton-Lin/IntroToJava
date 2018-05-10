@@ -101,9 +101,7 @@ public class DataStructures {
 	{
 		return Arrays.toString(arr);
 	}
-	//array: fixed size, create an array can change element but not length 
-	//ArrayList: implements list interface, more functionality, flexibility, 	create one and do something...
-	//HashMap: ...
+
 	ArrayList<Integer> a = new ArrayList<Integer>();
 	public String printAllElements(List<Integer> l) 
 	{
