@@ -52,9 +52,7 @@ public class IntroToJava {
 			System.out.println("- Press Enter to continue...");
 			readEnter();
 		}
-		//maybe at IntroToJava: press enter to enable feature
-		//Interfaces 
-		//Inheritance, objects and methods
+		
 	}
 	
 	private static int readInputCommand()
