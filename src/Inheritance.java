@@ -15,9 +15,6 @@ public class Inheritance extends OOP{
 		}
 		
 	}
-	// TODO super class... sub class
-	//enter to create objects (object class, includes methods)
-	//methods...
 	
 	public void feature()
 	{
