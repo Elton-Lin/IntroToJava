@@ -1,8 +1,7 @@
 import java.util.Scanner;
-// TODO fix line indentation stuff for this and GenericClass.java
 public class IntroToJava {
 
-	//make a static counter in all classes to count if one concept is run already 
+	//could make a static counter in all classes to count if one concept is run already 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("This program gives you a brief understanding of important concepts in Java. Topics including Object-oriented "
