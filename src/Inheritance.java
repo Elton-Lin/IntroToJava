@@ -9,7 +9,7 @@ public class Inheritance extends OOP{
 		if(readEnter())
 		{
 			System.out.println("\nIt uses the \"extends\" keyword. For example, Sedan(Subclass) extends Vehicle(Superclass)."
-					+ "\nThe subclass inherits the constructor, all states(instance variables),and behaviors(methods) of the "
+					+ "\nThe subclass inherits all states(instance variables),and behaviors(methods) of the "
 					+ "superclass.\nIt uses the \"super\" keyword to invoke the constructor or methods of its superclass.\n"
 					+ "Therefore, the objects have a Is-A relationship -- Sedan is an Vehicle.");
 		}
