@@ -65,7 +65,8 @@ public class Polymorphism extends OOP{
 	
 	private void methodOverloadingDemo()
 	{
-		System.out.println("Overloading a method means that declaring methods with same name, but differnt types or amount of paramenters.");
+		System.out.println("Overloading a method means that declaring methods with same name and return type"
+		+ ",\nbut differnt types or amount of paramenters.");
 		if(readEnter())
 		{
 			System.out.println("\nThe right readInputType() method is invoked during compile time based on the parameters you entered."
@@ -116,7 +117,7 @@ public class Polymorphism extends OOP{
 	{
 		//decides durign runtime as well
 		//same signature but different implementation
-		System.out.println("Overriding a method means that, in a subclass, creating a same method signature, but different "
+		System.out.println("Overriding a method means that, in a subclass, creating a same method declaration, but different "
 				+ "implementations from its superclass.\nFor example, the Vehicle(superclass) class have a method: accelerate()"
 				+ ", and the Sedan(subclass) overrides that method with its own implementation.\n"
 				+ "Thus, making the behavior of subclass more specific");
