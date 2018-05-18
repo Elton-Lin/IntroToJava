@@ -1,3 +1,4 @@
+//Made by Elton Lin May 2018 for the final project of APCS-A. It also serves as a study tool for myself and my classmates.
 import java.util.Scanner;
 public class IntroToJava {
 
